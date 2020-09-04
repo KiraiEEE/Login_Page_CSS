@@ -1,2 +1,1 @@
-SIMPLE LOGIN PAGE WITH CSS
-BY : @KiraiEEE
+# teaching purpose
